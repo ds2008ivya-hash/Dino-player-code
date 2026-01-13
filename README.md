@@ -1,5 +1,5 @@
 # Dino-player-code
-code for your new project GO IN README
+code for your new project
 SEE BELLOW
 
 here is code copy from below line and paste in arduino ide,And please subscribe our channel. good luck and byyyyy.
